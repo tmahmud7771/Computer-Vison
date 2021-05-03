@@ -30,4 +30,4 @@ while True:
 
     if cv.waitKey(1) & 0xFF == ord('f'):
         break 
->>>>>>> 4548fc9d6af6359635c79b43d52e09c24cc37d08
+
