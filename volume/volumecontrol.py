@@ -120,5 +120,4 @@ while True:
     cv.imshow('Volume Control' , img)
 
     if cv.waitKey(1) & 0XFF == ord('f'):
->>>>>>> 4548fc9d6af6359635c79b43d52e09c24cc37d08
         break
