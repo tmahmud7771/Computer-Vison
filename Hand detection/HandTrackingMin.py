@@ -115,4 +115,5 @@ while True:
     # program break rules ord("f/d/any keybaord alphabetical and numerical key")
     if cv.waitKey(1) & 0xFF == ord('f'):
         break 
-
+f
+s

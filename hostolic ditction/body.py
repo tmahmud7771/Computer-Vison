@@ -30,4 +30,4 @@ while True:
 
     if cv.waitKey(1) & 0xFF == ord('f'):
         break 
-
+s
